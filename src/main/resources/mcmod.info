@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Odyssey",
+  "name": "Odyssey Craft",
+  "description": "Rebuild of Zeppelin mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nkto"],
+  "credits": "Me, myself, and I.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
